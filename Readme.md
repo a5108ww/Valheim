@@ -86,3 +86,17 @@ ValheimPlus模組包</a>
 
 * => 對Steam 遊戲按右鍵 => 管理 => 瀏覽本機檔案
 
+# 
+
+相關設定說明文章
+https://github.com/valheimPlus/ValheimPlus
+https://github.com/GameServerManagers/LinuxGSM/issues/3287
+
+設定的檔案下載連結
+https://github.com/valheimPlus/ValheimPlus/releases/tag/0.9.9.8
+
+cfg設定講解
+https://www.nexusmods.com/valheim/mods/4
+
+參數說明資源：
+https://forum.gamer.com.tw/C.php?bsn=38700&snA=574
