@@ -7,7 +7,10 @@
 
 #### (1) Client端
 
-* 下載附件連結區的附件1
+* 下載附件連結區的附件1，此模組包包含以下模組
+
+##### (a)死亡不噴裝模組
+
 
 #### (2) Server端
 
@@ -41,7 +44,7 @@
 
    (不包括中括弧) 
 
-# 二、死亡不噴裝模組 
+# 二、死亡不噴裝模組(Server/Client) 
 
 ### 下載cfg 、dll檔 ，連結參考附件連結的附件2跟附件3。
 
@@ -59,12 +62,21 @@
 
 * 複製到 \BepInEx\plugins\ ，此目錄底下
 
+# 三、HD 高清模組 (Client) 
+
+#### 1.下載模組包 (Client) 
+
+#### 2.開啟Valheim 場景設定目錄
+
+* 遊戲根目錄(參考備註1)底下的valheim_Data資料夾，路徑會像 C:\\...\steamapps\common\Valheim\valheim_Data
+
+#### 3.解壓縮檔案，並將解壓後的4個檔案複製並取代 /valheim_Data 目錄中對應的檔案
+
 ## 附件連結
 
 附件1：
 <a href='https://storageforshilvain.blob.core.windows.net/valheim/UnixServer.zip' target='_blank'>
 ValheimPlus模組包</a>
-(完整安裝包)
 
 <br><br>
 
@@ -82,9 +94,9 @@ ValheimPlus模組包</a>
 
 ## 備註
 
-* 備註1：Steam 遊戲根目錄開啟方式：
+* 備註1：Steam 遊戲根目錄開啟方式：對Steam 遊戲按右鍵 => 管理 => 瀏覽本機檔案
 
-* => 對Steam 遊戲按右鍵 => 管理 => 瀏覽本機檔案
+* 路徑會像 C:\Program Files (x86)\Steam\steamapps\common\Valheim\
 
 # 
 
