@@ -66,6 +66,10 @@
 
 #### 1.下載模組包 (Client) 
 
+* 開啟附件4
+
+* 你可能需要安裝7z 解壓縮程式，請開啟附件5
+
 #### 2.開啟Valheim 場景設定目錄
 
 * 遊戲根目錄(參考備註1)底下的valheim_Data資料夾，路徑會像 C:\\...\steamapps\common\Valheim\valheim_Data
@@ -73,6 +77,8 @@
 #### 3.解壓縮檔案，並將解壓後的4個檔案複製並取代 /valheim_Data 目錄中對應的檔案
 
 ## 附件連結
+
+https://drive.google.com/file/d/1Gxyetxcx9O3-D53Hjk4NMHZ3tip4ZQgo/view?usp=sharing
 
 附件1：
 <a href='https://storageforshilvain.blob.core.windows.net/valheim/UnixServer.zip' target='_blank'>
@@ -90,6 +96,14 @@ ValheimPlus模組包</a>
 <a href='https://storageforshilvain.blob.core.windows.net/valheim/Gravekeeper.dll' target='_blank'>
 死亡不噴裝模組.dll</a>
 
+附件4：
+<a href='https://drive.google.com/file/d/1Gxyetxcx9O3-D53Hjk4NMHZ3tip4ZQgo/view?usp=sharing' target='_blank'>
+HD 模組</a>
+
+附件5：
+<a href='https://drive.google.com/file/d/1o8TPIQciWXO-TpRepvMP-T9yIXH8qSOx/view?usp=sharing' target='_blank'>
+7Z 安裝檔</a>
+
 <br><br>
 
 ## 備註
@@ -97,8 +111,6 @@ ValheimPlus模組包</a>
 * 備註1：Steam 遊戲根目錄開啟方式：對Steam 遊戲按右鍵 => 管理 => 瀏覽本機檔案
 
 * 路徑會像 C:\Program Files (x86)\Steam\steamapps\common\Valheim\
-
-# 
 
 相關設定說明文章
 https://github.com/valheimPlus/ValheimPlus
